@@ -1,0 +1,6 @@
+{
+  "name": "KisanVaani",
+  "description": "Sunlight-ready voice and vision crop & pesticide assistant PWA for small and marginal farmers in India.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
